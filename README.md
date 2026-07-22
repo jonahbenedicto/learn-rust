@@ -7,7 +7,7 @@ Resources:
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rustlings](https://github.com/rust-lang/rustlings/)
 
-Contents
-- [1 Hello, World!](./1-hello-world/README.md)
-- [2 Comments](./2-comments/README.md)
-- [3 Formatted Print](./3-formmated-print/README.md)
+Contents:
+- [1 Hello, World!](./1-hello-world)
+- [2 Comments](./2-comments)
+- [3 Formatted Print](./3-formmated-print)
