@@ -3,6 +3,7 @@
 [Example](./comments.rs)
 ```rust
 // Line comment
+
 /* 
     Block comment
 */
