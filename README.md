@@ -10,4 +10,4 @@ Resources:
 Contents:
 - [1 Hello, World!](./1-hello-world)
 - [2 Comments](./2-comments)
-- [3 Formatted Print](./3-formmated-print)
+- [3 Formatted Print](./3-formatted-print)
